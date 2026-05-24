@@ -1,4 +1,4 @@
-banned_words_lol = ["naughty naughty word_1","lololol!"]
+banned_words_lol = ["naughty naughty word_1","lololol!","wordings"]
 
 using_person_message = input("type your message here!")
 
